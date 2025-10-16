@@ -1,7 +1,7 @@
 # NewProductPerformance
-Using python to analyse the performance of 3 different sales methods that were used to advertise a new product line.
+Using python to analyse the performance of 3 different sales methods that were used to advertise a new product line for a fiction company that sells stationary and other office products.
 
-The business goal for a stationary and office furniture company was to advertise a new product line to customers. While revenue is also important, bringing the new product to customers and having them try it is the most important part, as the company has many long time loyal customers and their feedback is important.
+The business goal was to find out which sales method suited their long time customers the best, coming in to 2015 modernity. While revenue is also important, bringing the new product to customers and having them try it is the most important part, as the company has many long time loyal customers and their feedback is important.
 Customers were randomly split in to one of 3 groups and the product was advertised through 3 different methods, 
 Email - an email was sent to all customers in the email group at the start of the launch and another at week 3 of the launch.
 Call - all customers in the call group were called at the start of the product launch to thouroughly discuss the new products and were then directed to the website.
